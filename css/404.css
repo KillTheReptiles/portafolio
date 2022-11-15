@@ -20,14 +20,23 @@ body {
     margin: 0;
     font-weight: 900;
     letter-spacing: 20px;
-    background: url("../images/bg.jpg") center no-repeat;
+    background: url("../assets/img/bg.jpg") center no-repeat;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
 
 .container a {
     text-decoration: none;
-    background: #e55039aa;
+    color: #ff0062  ;
+    display: inline-block;
+    border-radius: 25px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+
+.container-home a {
+    text-decoration: none;
+    background: #ff0062;
     color: #fff;
     padding: 12px 24px;
     display: inline-block;
@@ -38,5 +47,6 @@ body {
 }
 
 .container a:hover {
-    background: #e55039;
+    color: #b8b8b8;
+;
 }
