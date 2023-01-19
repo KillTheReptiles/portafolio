@@ -13,10 +13,10 @@ document.write(`
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="duvandiaz.com/#page-top">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="duvandiaz.com/#portfolio">Portfolio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="duvandiaz.com/#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="duvandiaz.com/#contact">Contact</a></li>
+                <li class="nav-item"><a href="https://www.duvandiaz.com/#page-top" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="https://www.duvandiaz.com/#portafolio" class="nav-link">Portafolio</a></li>
+                <li class="nav-item"><a href="https://www.duvandiaz.com/#about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="https://www.duvandiaz.com/#contact" class="nav-link">Contact</a></li>
                 </ul>
             </div>
         </div>
