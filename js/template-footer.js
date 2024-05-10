@@ -3,11 +3,11 @@ document.write(`
 <footer class="footer py-4">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-4 text-lg-start">Copyright &copy; Duvan Diaz 2023</div>
+                <div class="col-lg-4 text-lg-start">Copyright &copy; Duvan Diaz 2024</div>
                 <div class="col-lg-4 my-3 my-lg-0">
                     <a class="btn btn-dark btn-social mx-2" href="https://github.com/KillTheReptiles" target="_blank" aria-label="GitHub"><i
                         class="fab fa-github"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/kt17_official" target="_blank" aria-label="Twitter"><i
+                    <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/" target="_blank" aria-label="Twitter"><i
                             class="fab fa-twitter"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/duvandiazmz/" target="_blank" aria-label="LinkedIn"><i
                             class="fab fa-linkedin-in"></i></a>
